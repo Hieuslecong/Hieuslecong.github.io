@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 Hi, thank you for stopping by my website
+---
 I earned my B.Eng degree in the Mechanical Engineering program at University of Engineering and Technology (UET) - Vietnam National University in 2022, I am now deepening my knowledge in Mechatronics through a Master's program at the same institution. 
+---
 I am currently working as a full-time research assistant in [Dr.Tran Hiep Dinh](https://www.linkedin.com/in/tran-hiep-dinh/)'s research group. My research is centered around applying machine learning and deep learning techniques to solve image processing problems.
 
 Research Interests
