@@ -15,6 +15,9 @@ Numpy, OpenCV, Tensor-Flow, Keras, and PyTorch. Besides, he has actively contrib
 participated in competitions, and authored scientific papers. His research interests primarily revolve around
 computer vision and generative AI, and he aspires to make meaningful contributions to advancing these fields
 <br/><img src='/images/500x300.png'>"
+Latest News
+======
+Like many other Jekyll-based GitHub
 <!-- ---
 title: "Portfolio item number 1"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
