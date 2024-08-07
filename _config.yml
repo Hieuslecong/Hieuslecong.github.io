@@ -22,17 +22,17 @@ repository               : "Hieuslecong/Hieuslecong.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Hieu"
-  pronouns         : # example: "she/her"  
+  name             : "Le Cong Hieu"
+  pronouns         : Mr. # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Viet Nam"
+  employer         : "VNU University of Engineering and Technology (VNU-UET)"
   uri              : # URL
   email            : "Hieus.lecong@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=FY_Jru4AAAAJ&hl=vi&oi=ao"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
