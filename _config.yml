@@ -29,8 +29,8 @@ author:
   location         : "Earth"
   employer         : "Red Brick University"
   location         : "Viet Nam"
-  employer         : "VNU University of Engineering and Technology (VNU-UET)"
-  uri              : # URL
+  employer         : "VNU-UET" #VNU University of Engineering and Technology (
+  uri              : 'https://uet.vnu.edu.vn/en' # URL
   email            : "Hieus.lecong@gmail.com" 
 
   # Academic websites
