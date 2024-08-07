@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "image_bio.jpg"
   name             : "Le Cong Hieu"
-  pronouns         : Mr. # example: "she/her"  
+  pronouns         :  # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Viet Nam"
   employer         : "VNU University of Engineering and Technology (VNU-UET)"
