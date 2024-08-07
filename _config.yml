@@ -21,7 +21,7 @@ repository               : "Hieuslecong/Hieuslecong.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/image_bio.jpg"
+  avatar           : "profile.png"
   name             : "Le Cong Hieu"
   pronouns         :  # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
