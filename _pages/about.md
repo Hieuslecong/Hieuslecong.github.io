@@ -6,7 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, thank you for stopping by my website<br>
+<br>
+**Hi, thank you for stopping by my website**<br>
 I earned my B.Eng degree in the Mechanical Engineering program at University of Engineering and Technology (UET) - Vietnam National University in 2022, I am now deepening my knowledge in Mechatronics through a Master's program at the same institution. <br>
 I am currently working as a full-time research assistant in [Dr.Tran Hiep Dinh](https://www.linkedin.com/in/tran-hiep-dinh/)'s research group. My research is centered around applying machine learning and deep learning techniques to solve image processing problems.
 
@@ -14,23 +15,8 @@ Research Interests
 ======
 I have specialized in computer vision and image processing. I have completed advanced courses in Machine Learning and Deep Learning on platforms like Coursera.org. I am proficient in libraries such as NumPy, OpenCV, TensorFlow, Keras, and PyTorch, and have actively participated in group projects, competitions, and published research papers. <br>
 My research focuses on computer vision and generative AI. With a solid foundation in computer vision and image processing, I have successfully applied deep learning algorithms to solve real-world problems, such as crack detection and classification, and developing intelligent agricultural support systems.
-
-
 <br/><img src='/images/500x300.png'>"
-
-Getting started
----
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
- 
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+## Latest News
 
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
