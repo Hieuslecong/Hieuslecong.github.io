@@ -6,21 +6,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, thank you for stopping by my website
----
-I earned my B.Eng degree in the Mechanical Engineering program at University of Engineering and Technology (UET) - Vietnam National University in 2022, I am now deepening my knowledge in Mechatronics through a Master's program at the same institution. 
----
+Hi, thank you for stopping by my website<br>
+I earned my B.Eng degree in the Mechanical Engineering program at University of Engineering and Technology (UET) - Vietnam National University in 2022, I am now deepening my knowledge in Mechatronics through a Master's program at the same institution. <br>
 I am currently working as a full-time research assistant in [Dr.Tran Hiep Dinh](https://www.linkedin.com/in/tran-hiep-dinh/)'s research group. My research is centered around applying machine learning and deep learning techniques to solve image processing problems.
 
 Research Interests
 ======
-Cong Hieu Le has accumulated four years of artificial intelligence expertise, particularly in computer vision
-and image processing. He has furthered his knowledge through comprehensive Machine Learning and Deep
-Learning coursework on platforms like Coursera.org. He is proficient in utilizing support libraries, including
-Numpy, OpenCV, Tensor-Flow, Keras, and PyTorch. Besides, he has actively contributed to group projects,
-participated in competitions, and authored scientific papers. His research interests primarily revolve around
-computer vision and generative AI, and he aspires to make meaningful contributions to advancing these fields
-  <br/><img src='/images/500x300.png'>"
+I have specialized in computer vision and image processing. I have completed advanced courses in Machine Learning and Deep Learning on platforms like Coursera.org. I am proficient in libraries such as NumPy, OpenCV, TensorFlow, Keras, and PyTorch, and have actively participated in group projects, competitions, and published research papers. <br>
+My research focuses on computer vision and generative AI. With a solid foundation in computer vision and image processing, I have successfully applied deep learning algorithms to solve real-world problems, such as crack detection and classification, and developing intelligent agricultural support systems.
+
+
+<br/><img src='/images/500x300.png'>"
 
 Getting started
 ---
