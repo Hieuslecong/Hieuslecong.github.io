@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 Hi, thank you for stopping by my website
-I am a Master student in VNU University of Engineering and Technology.
+I earned my B.Eng degree in the Mechanical Engineering program at University of Engineering and Technology (UET) - Vietnam National University in 2022, I am now deepening my knowledge in Mechatronics through a Master's program at the same institution. 
+I am currently working as a full-time research assistant in [Dr.Tran Hiep Dinh](https://www.linkedin.com/in/tran-hiep-dinh/)'s research group. My research is centered around applying machine learning and deep learning techniques to solve image processing problems.
+
+Research Interests
+======
 Cong Hieu Le has accumulated four years of artificial intelligence expertise, particularly in computer vision
 and image processing. He has furthered his knowledge through comprehensive Machine Learning and Deep
 Learning coursework on platforms like Coursera.org. He is proficient in utilizing support libraries, including
@@ -17,7 +21,7 @@ computer vision and generative AI, and he aspires to make meaningful contributio
   <br/><img src='/images/500x300.png'>"
 
 Getting started
-======
+---
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
@@ -27,6 +31,7 @@ Getting started
 
 Site-wide configuration
 ------
+ 
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
 
