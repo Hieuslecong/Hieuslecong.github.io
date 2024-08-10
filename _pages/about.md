@@ -16,6 +16,7 @@ Research Interests
 I have specialized in computer vision and image processing. I have completed advanced courses in Machine Learning and Deep Learning on platforms like Coursera.org. I am proficient in libraries such as NumPy, OpenCV, TensorFlow, Keras, and PyTorch, and have actively participated in group projects, competitions, and published research papers. <br>
 My research focuses on computer vision and generative AI. With a solid foundation in computer vision and image processing, I have successfully applied deep learning algorithms to solve real-world problems, such as crack detection and classification, and developing intelligent agricultural support systems.
 <!-- <br/><img src='/images/500x300.png'>" -->
+
 What I'm Doing
 ======
 Updating 
