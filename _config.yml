@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "Viet Nam"
-title                    : "Le Cong Hieu / Master student"
+title                    : "Hieu's Personal Website"
 title_separator          : "-"
 name                     : &name "Hieu"
 description              : &description "personal description"
