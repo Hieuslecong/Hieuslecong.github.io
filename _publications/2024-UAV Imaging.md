@@ -1,4 +1,3 @@
-
 ---
 title: "UAV Imaging: Correlation Between Contrast and F1-Score for Vision-Based Crack Detection"
 collection: publications
