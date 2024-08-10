@@ -66,15 +66,19 @@ Publications
 
 AWARDS
 ======
-* Outstanding undergraduate thesis, *VNU University of Engineering and Technology* 2022
-* Third prize at the Research Student Conference (University level),*VNU University of Engineering and Technology* 2022
-* Second prize at the Research Student Conference (Faculty level), Faculty of Engineering Mechanics and Automation, *VNU University of Engineering and Technology* 2021
-* Third prize at the Research Student Conference (University level),*VNU University of Engineering and Technology* 2020
+* Outstanding undergraduate thesis, 
+  *VNU University of Engineering and Technology* 2022
+* Third prize at the Research Student Conference (University level),
+  *VNU University of Engineering and Technology* 2022
+* Second prize at the Research Student Conference (Faculty level),
+  Faculty of Engineering Mechanics and Automation, *VNU University of Engineering and Technology* 2021
+* Third prize at the Research Student Conference (University level),
+  *VNU University of Engineering and Technology* 2020
 
 <!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
+    {% include archive-single-cv.html %}  
   {% endfor %}</ul> -->
   
 <!-- Service and leadership
