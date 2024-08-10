@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /Resume/
 author_profile: true
 redirect_from:
   - /resume
@@ -29,9 +29,12 @@ Work experience
   objective (F1-score) and a subjective metric (region contrast) in crack segmentation applications. The
   goal is to develop a segmentation evaluation metric that performs better than the current contrast without
   depending on human annotation.
-* Teaching assistant, VNU University of Engineering and Technology
+
+Teaching assistant
+======
+VNU University of Engineering and Technology
   * EMA2006E 20: Matlab and applications (Sep-Dec/2023)
-- EMA3039E 20: Image processing and recognition (Feb/2024-Curren)
+  * EMA3039E 20: Image processing and recognition (Feb/2024-Curren)
 
 
 
@@ -52,31 +55,31 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: Python, Matlab, Latex, Deep Learning, Machine learning.
+* Frameworks and libraries: OpenCV, Scikit Learn, PyTorch, TensorFlow
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-<!-- Talks
+
+AWARDS
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-   -->
-Teaching
+* Outstanding undergraduate thesis, VNU University of Engineering and Technology, 2022
+Third prize at the Research Student Conference (University level),VNU University of Engineering and Technology, 2022
+
+○
+* Second prize at the Research Student Conference (Faculty level), Faculty of Engineering Mechanics and Automation, VNU University of Engineering and Technology, 2021
+
+* Third prize at the Research Student Conference (University level),VNU University of Engineering and Technology, 2020
+
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
