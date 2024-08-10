@@ -15,9 +15,14 @@ Research Interests
 ======
 I have specialized in computer vision and image processing. I have completed advanced courses in Machine Learning and Deep Learning on platforms like Coursera.org. I am proficient in libraries such as NumPy, OpenCV, TensorFlow, Keras, and PyTorch, and have actively participated in group projects, competitions, and published research papers. <br>
 My research focuses on computer vision and generative AI. With a solid foundation in computer vision and image processing, I have successfully applied deep learning algorithms to solve real-world problems, such as crack detection and classification, and developing intelligent agricultural support systems.
-<br/><img src='/images/500x300.png'>"
+<!-- <br/><img src='/images/500x300.png'>" -->
 ## Latest News
-
+* **[01/01/2024]** Started my Master's program at UET
+* **[01/10/2023]** Start working at [Advanced Institute of Engineering and Technology(AVITECH)](https://avitech.uet.vnu.edu.vn/).
+* **[05/01/2023]** Complete the Engineer in Engineering Mechanics. 
+* **[14/11/2021]** Accepted ICEMA conference paper *A Post-processing Approach Using Clustering for Vision-based Crack Detection Algorithms*
+* **[14/11/2021]** Accepted ICEMA conference paper *“Fitting Models to Crack Coordinate Data Using Change Detection,” in Proceedings of the 6th International Conference on Engineering Mechanics and Automation"*
+* **[01/07/2019]** Join the research group [Dr.Tran Hiep Dinh](https://www.linkedin.com/in/tran-hiep-dinh/)’s research group.
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
