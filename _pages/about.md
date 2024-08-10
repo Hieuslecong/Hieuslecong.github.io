@@ -16,9 +16,13 @@ Research Interests
 I have specialized in computer vision and image processing. I have completed advanced courses in Machine Learning and Deep Learning on platforms like Coursera.org. I am proficient in libraries such as NumPy, OpenCV, TensorFlow, Keras, and PyTorch, and have actively participated in group projects, competitions, and published research papers. <br>
 My research focuses on computer vision and generative AI. With a solid foundation in computer vision and image processing, I have successfully applied deep learning algorithms to solve real-world problems, such as crack detection and classification, and developing intelligent agricultural support systems.
 <!-- <br/><img src='/images/500x300.png'>" -->
+What I'm Doing
+======
+Updating 
+
 ## Latest News
-* **[01/01/2024]** Started my Master's program at UET
-* **[01/10/2023]** Start working at [Advanced Institute of Engineering and Technology(AVITECH)](https://avitech.uet.vnu.edu.vn/).
+* **[01/01/2024]** Started my Master's program at the University of Engineering and Technology (UET-VNU).
+* **[01/10/2023]** Start working at [Advanced Institute of Engineering and Technology (AVITECH)](https://avitech.uet.vnu.edu.vn/).
 * **[05/01/2023]** Complete the Engineer in Engineering Mechanics. 
 * **[14/11/2021]** Accepted ICEMA conference paper *A Post-processing Approach Using Clustering for Vision-based Crack Detection Algorithms*
 * **[14/11/2021]** Accepted ICEMA conference paper *“Fitting Models to Crack Coordinate Data Using Change Detection,” in Proceedings of the 6th International Conference on Engineering Mechanics and Automation"*
