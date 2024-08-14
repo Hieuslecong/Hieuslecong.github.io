@@ -23,9 +23,10 @@ Updating
 
 ## Latest News
 * **[01/01/2024]** Started my Master's program at the University of Engineering and Technology (UET-VNU).
+* **[01/01/2023]** Accepted journal paper *["Toward Vision-Based Concrete Crack Detection: Automatic Simulation of Real-World Cracks."](https://ieeexplore.ieee.org/abstract/document/10417452)*
 * **[01/10/2023]** Start working at [Advanced Institute of Engineering and Technology (AVITECH)](https://avitech.uet.vnu.edu.vn/).
 * **[05/01/2023]** Complete the Engineer in Engineering Mechanics. 
-* **[14/11/2021]** Accepted ICEMA conference paper *A Post-processing Approach Using Clustering for Vision-based Crack Detection Algorithms*
+* **[14/11/2021]** Accepted ICEMA conference paper *"A Post-processing Approach Using Clustering for Vision-based Crack Detection Algorithms"*
 * **[14/11/2021]** Accepted ICEMA conference paper *“Fitting Models to Crack Coordinate Data Using Change Detection,”*
 * **[01/07/2019]** Join the research group [Dr.Tran Hiep Dinh](https://www.linkedin.com/in/tran-hiep-dinh/)’s research group.
 
