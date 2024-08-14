@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 
-* **M.S.** Mechatronics in *VNU University of Engineering and Technology* (VNU-UET), 2024
-* **B.Eng.** Mechanical Engineering in *VNU University of Engineering and Technology* (VNU-UET) 2018
+* **M.S.** Mechatronics in *VNU University of Engineering and Technology* (VNU-UET), 2024-2025
+* **B.Eng.** Mechanical Engineering in *VNU University of Engineering and Technology* (VNU-UET) 2018-2022
 
 Work experience
 ======
