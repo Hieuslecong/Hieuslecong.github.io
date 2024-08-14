@@ -22,8 +22,9 @@ What I'm Doing
 Updating 
 
 ## Latest News
+* **[11/01/2024]** Accepted conference paper  [“UAV Imaging: Correlation Between Contrast and F1-Score for Vision-Based Crack Detection”](https://ieeexplore.ieee.org/abstract/document/10417452)
 * **[01/01/2024]** Started my Master's program at the University of Engineering and Technology (UET-VNU).
-* **[01/01/2023]** Accepted journal paper *["Toward Vision-Based Concrete Crack Detection: Automatic Simulation of Real-World Cracks."](https://ieeexplore.ieee.org/abstract/document/10417452)*
+* **[27/10/2023]** Accepted journal paper *["Toward Vision-Based Concrete Crack Detection: Automatic Simulation of Real-World Cracks."](https://ieeexplore.ieee.org/abstract/document/10417452)*
 * **[01/10/2023]** Start working at [Advanced Institute of Engineering and Technology (AVITECH)](https://avitech.uet.vnu.edu.vn/).
 * **[05/01/2023]** Complete the Engineer in Engineering Mechanics. 
 * **[14/11/2021]** Accepted ICEMA conference paper *"A Post-processing Approach Using Clustering for Vision-based Crack Detection Algorithms"*
